@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1779883524835,
+  "timestamp": 1779883533555,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -69,7 +69,9 @@
     "calendarData": true,
     "groupChats": true,
     "xinsheng": true,
-    "goingOutAreas": true
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true
   },
   "source": "auto",
   "inProgress": true
