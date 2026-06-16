@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781572703255,
+  "timestamp": 1781584602265,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -62,19 +62,6 @@
     "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "messages": 9
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "stickers": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true
-  },
   "source": "auto",
   "inProgress": true
 }
