@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781803957401,
+  "timestamp": 1781803962782,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -100,7 +100,8 @@
     "goingOutState": true,
     "goingOutAreas": true,
     "mapRasterCache": true,
-    "customGames": true
+    "customGames": true,
+    "customWidgetTemplates": true
   },
   "source": "auto",
   "inProgress": true
