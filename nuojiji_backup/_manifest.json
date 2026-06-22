@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782147440158,
+  "timestamp": 1782147456684,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -94,7 +94,8 @@
     "groupChats": true,
     "xinsheng": true,
     "pomodoroSessions": true,
-    "couplesData": true
+    "couplesData": true,
+    "imageStore": true
   },
   "source": "auto",
   "inProgress": true
