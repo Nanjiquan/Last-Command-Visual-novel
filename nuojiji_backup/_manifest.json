@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783059664170,
+  "timestamp": 1783059674017,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -63,6 +63,9 @@
     "fontStore",
     "_migration"
   ],
+  "completedTables": {
+    "characters": true
+  },
   "source": "auto",
   "inProgress": true
 }
