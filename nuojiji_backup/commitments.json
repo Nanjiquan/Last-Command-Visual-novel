@@ -1,1 +1,1 @@
-[{"status":"pending","createdAt":1783594226541,"userId":"uid_1778159494233_wkl8keakk","characterId":"996d4ccc-2914-4aa4-9ba8-c100ab38b933","triggerAt":1783594826512,"kind":"activity","hint":"检查厨房炖着的汤","confidence":0.95,"_id":1}]
+[{"status":"sent","createdAt":1783594226541,"userId":"uid_1778159494233_wkl8keakk","characterId":"996d4ccc-2914-4aa4-9ba8-c100ab38b933","triggerAt":1783594826512,"kind":"activity","hint":"检查厨房炖着的汤","confidence":0.95,"_id":1,"sentAt":1783595081876,"updatedAt":1783595081876}]
