@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783864309972,
+  "timestamp": 1783864319575,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -66,7 +66,9 @@
   "completedTables": {
     "stickers": true,
     "kaomojis": true,
-    "users": true
+    "users": true,
+    "userState": true,
+    "userPosts": true
   },
   "source": "auto",
   "inProgress": true
