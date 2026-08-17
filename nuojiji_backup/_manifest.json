@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786986834192,
+  "timestamp": 1786986842348,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -94,7 +94,8 @@
     "customWidgetTemplates": true,
     "customWidgetState": true,
     "whiteDogData": true,
-    "regexRules": true
+    "regexRules": true,
+    "mcpServers": true
   },
   "source": "auto",
   "inProgress": true
