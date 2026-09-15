@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789407104729,
+  "timestamp": 1789432194301,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -187,5 +187,5 @@
     "deliveryData": true
   },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
