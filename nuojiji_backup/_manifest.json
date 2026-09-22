@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790048041496,
+  "timestamp": 1790048048822,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -142,7 +142,9 @@
     "couplesData": true,
     "stickerStore": true,
     "quickReplies": true,
-    "goingOutState": true
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "goingOutLogs": true
   },
   "source": "auto",
   "inProgress": true
